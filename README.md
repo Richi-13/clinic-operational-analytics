@@ -30,7 +30,7 @@ generator, financing the parent institute's operations on a monthly basis.
 Prior to this project, all operational and financial reporting was done manually 
 in Excel across ~2,600 monthly patient encounters and 50 medical staff. This made 
 it difficult for management to track staff profitability, monitor compliance with 
-the national healthcare payer's (NSZU) contract quotas, or catch reporting errors 
+the national healthcare payer's (a national health insurer) contract quotas, or catch reporting errors 
 before they affected funding.
 
 ## What I built
