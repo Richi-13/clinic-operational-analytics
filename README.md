@@ -12,6 +12,14 @@ Beyond the technical implementation, two business and contractual investigations
    - Reconciled earned payroll vs. accounting ledger charge-offs to isolate medical operations from overhead burdens.
    - Diagnosed an impending liquidity shortfall 3–4 months ahead of time and formulated a two-phase cost-allocation model.
 
+### Visuals
+
+#### 1. Operational Efficiency
+![Operational Efficiency](dashboard_operational_efficiency.jpg)
+
+#### 2. Financial Overview
+![Financial Overview](dashboard_financial_overview.jpg)
+
 ## Context
 The clinic operates as an outpatient department within a Ukrainian Ministry of 
 Health research institute (Institute of Rehabilitation & Balneology). Despite 
