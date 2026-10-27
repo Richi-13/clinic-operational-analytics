@@ -1,4 +1,4 @@
-# Case Study: Reconstructing Missing Contract Data and Winning an Internal Argument for a Funding Appeal
+# Case Study: Reconstructing Discontinued Revenue Data to Secure a 14% Contract Funding Increase
 ### (Anonymized - methodology and sequence of events preserved, identifying details generalized)
 
 ## Context
@@ -70,21 +70,18 @@ figures, to formally support the funding-increase request.
 
 ## Outcome
 
-The written justification was passed up to institutional leadership and
-legal counsel, who - after reviewing the cited contract clauses - agreed
-with the analysis and submitted a formal request to the insurer for a
-global-rate revision for the upcoming quarters. A response from the
-insurer is still pending at the time of writing; based on the prior year's
-precedent, a favorable outcome is possible but not guaranteed. Regardless
-of the insurer's decision, establishing the institution's clear
-contractual right to request revision - backed by a repeatable, correct
-calculation method - was itself considered a valuable outcome by
-leadership.
+The written justification was presented to institutional leadership and legal counsel, who adopted the methodology and submitted a formal rate-revision request to the national health insurer for the upcoming quarters.
+
+The insurer accepted the evidentiary calculations, confirming the institution's contractual right to a rate recalculation. This resulted in an approved 14% increase in monthly contract funding across the evaluated outpatient service packages for Q3–Q4.
+
+Beyond the immediate financial gain, the project delivered long-term institutional value: the reconstructed pricing logic eliminated operational dependency on the insurer's altered exports, established an automated audit mechanism for future quarters, and served as the foundational schema for the institution’s later database and BI redesign
 
 ## Skills demonstrated
 
 - Rebuilding a broken/missing data pipeline from first principles when a
   primary data source is discontinued
+- Measurable financial impact: delivered a 14% increase in recurring
+  monthly contract funding through evidence-based contractual appeals
 - Contract and regulatory document analysis to resolve a factual dispute
 - Persistence and independent verification when a stated "no basis to act"
   conflicted with the underlying data
